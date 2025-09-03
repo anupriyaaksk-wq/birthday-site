@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Birthday Surprise</title>
+  <style>
+    body {
+      background: linear-gradient(270deg, #ffecd2, #fcb69f, #ffdde1);
+      background-size: 600% 600%;
+      animation: backgroundShift 10s ease infinite;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      margin: 0;
+      overflow: hidden;
+    }
+
+    @keyframes backgroundShift {
+      0% { background-position: 0% 50%; }
+      50% { background-position: 100% 50%; }
+      100% { background-position: 0% 50%; }
+    }
+
+    .present {
+      width: 250px;
+      cursor: pointer;
+      transition: transform 0.5s ease, filter 0.3s;
+    }
+    .present:hover {
+      transform: scale(1.2) rotate(10deg);
+      filter: drop-shadow(0 0 25px gold);
+    }
+  </style>
+</head>
+<body>
+  <a href="wish.html">
+    <img src="C:\Users\Anoop Kumar Patel\Desktop\website\present.jpeg" alt="Birthday Present" class="present">
+  </a>
+</body>
+</html>
