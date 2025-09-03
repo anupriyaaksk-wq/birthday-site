@@ -110,9 +110,9 @@
 
   <div class="photos">
     <!-- Replace these with real birthday person's pictures -->
-    <img src="D:\Downloads\WhatsApp Image 2025-09-03 at 23.04.25 (1).jpeg" alt="Beautiful Sakshi">
-    <img src="D:\Downloads\WhatsApp Image 2025-09-03 at 23.04.25.jpeg" alt="Cute Sakshi">
-    <img src="D:\Downloads\WhatsApp Image 2025-09-03 at 21.42.18.jpeg" alt="Hot sakshi">
+    <img src="i2.jpeg" alt="Beautiful Sakshi">
+    <img src="i1.jpeg" alt="Cute Sakshi">
+    <img src="i3.jpeg" alt="Hot sakshi">
   </div>
 
   <!-- 🎈 Floating Balloons -->
@@ -149,3 +149,4 @@
   </script>
 </body>
 </html>
+
