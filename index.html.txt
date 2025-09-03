@@ -35,7 +35,8 @@
 </head>
 <body>
   <a href="wish.html">
-    <img src="C:\Users\Anoop Kumar Patel\Desktop\website\present.jpeg" alt="Birthday Present" class="present">
+    <img src="present.jpeg" alt="Birthday Present" class="present">
   </a>
 </body>
 </html>
+
